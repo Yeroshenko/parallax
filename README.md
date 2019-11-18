@@ -1,2 +1,2 @@
-# parallax
+# Parallax
 Simple mouse parallax
